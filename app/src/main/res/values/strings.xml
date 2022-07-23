@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="welcome_to_our_attendance_app">Welcome to our attendance app</string>
+    <string name="lets_mark_your_attendance">Lets mark your attendance</string>
+    <string name="what_do_you_want">What do you want?</string>
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="logintohomepage">Login</string>
+    <string name="login">LOGIN</string>
+    <string name="go_back">Go back</string>
+    <string name="signup">SIGNUP</string>
+    <string name="logout">LOGOUT</string>
+    <string name="enter_email"> Email</string>
+    <string name="enter_roll_no."> Roll No.</string>
+    <string name="enter_password"> PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="Student">STUDENT</string>
+    <string name="Instructor">INSTRUCTOR/TA</string>
+
+</resources>
